@@ -1,0 +1,11 @@
+L:\git\NugetPlusTest\NugetPlusTest\bin\Debug\NugetPlusTest.exe.config
+L:\git\NugetPlusTest\NugetPlusTest\bin\Debug\NugetPlusTest.XML
+L:\git\NugetPlusTest\NugetPlusTest\bin\Debug\NugetPlusTest.exe
+L:\git\NugetPlusTest\NugetPlusTest\bin\Debug\NugetPlusTest.pdb
+L:\git\NugetPlusTest\NugetPlusTest\bin\Debug\FSharp.Core.dll
+L:\git\NugetPlusTest\NugetPlusTest\bin\Debug\FSharp.Core.xml
+L:\git\NugetPlusTest\NugetPlusTest\obj\Debug\NugetPlusTest.fsprojResolveAssemblyReference.cache
+L:\git\NugetPlusTest\NugetPlusTest\obj\Debug\NugetPlusTest.exe
+L:\git\NugetPlusTest\NugetPlusTest\obj\Debug\NugetPlusTest.pdb
+L:\git\NugetPlusTest\NugetPlusTest\bin\Debug\FsCheck.dll
+L:\git\NugetPlusTest\NugetPlusTest\bin\Debug\FsCheck.xml
