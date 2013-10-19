@@ -1,7 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "NugetPlusTest", "NugetPlusTest\NugetPlusTest.fsproj", "{0031BF12-6F9F-404D-8662-3A026FD91274}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpConsole", "CSharpConsole\CSharpConsole.csproj", "{5CD050EB-17D8-40BC-A481-35630189F64D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +17,10 @@ Global
 		{0031BF12-6F9F-404D-8662-3A026FD91274}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0031BF12-6F9F-404D-8662-3A026FD91274}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0031BF12-6F9F-404D-8662-3A026FD91274}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CD050EB-17D8-40BC-A481-35630189F64D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CD050EB-17D8-40BC-A481-35630189F64D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CD050EB-17D8-40BC-A481-35630189F64D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CD050EB-17D8-40BC-A481-35630189F64D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
